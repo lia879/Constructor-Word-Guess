@@ -15,4 +15,5 @@ The completed game should meet the following criteria:
     
     c. Index.js 
 
+https://github.com/lia879/Constructor-Word-Guess/issues/1#issue-530625256
 
